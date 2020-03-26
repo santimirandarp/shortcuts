@@ -38,7 +38,7 @@ Alt + PrtScn = Copy Screenshot to Clipboard
 
 Windows Key + PrtScn = Copy Screenshot to ‘Computers > Pictures > Screenshots’
 
-##Browser shorcuts
+## Browser shorcuts
 
 Ctrl + T = Open new Tab
 
