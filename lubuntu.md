@@ -4,7 +4,11 @@ There are two levels of shortcuts
 * Openbox: on config file under ~/.config/openbox
 (*many of the main programs in lubuntu are shown under lxqt-TAB*)
 
-C:control key
+## Syntaxis   
+Modifiers are special keys that we list below.
+After a modifier a dash (-) is added.    
+
+C: control key
 A: alt key
 S: shift
 W: super key (windows key).
@@ -17,8 +21,8 @@ S-A-[arrows]: send to desktop
 W-d: show desktop
 W-r: toggle runner
 W-e: launch explorer
-W-t: launch default terminal (personal keybinding)
-W-A: launch alacritty (personal keybinding)
+W-t: launch default Qterminal (personal keybinding)
+W-a: launch alacritty (personal keybinding)
 W-b: launch browser (personal keybinding)
 C-A-t: launch terminal
 

@@ -1,13 +1,20 @@
 # COMMAND LINE
 
+## Syntaxis   
+Modifiers are special keys that we list below.
+After a modifier a dash (-) is added.    
+
+C =  Ctrl
+A = Alt
+S = shift
 
 ## motions
-ctrl+A: beginning of line
-ctrl+E: EoL
+C-a: beginning of line
+C-e: EoL
 
 ## deletions
-ctrl+k: all after cursor.
-ctrl+u: all before cursor
+C-k: all after cursor.
+C-u: all before cursor
 
 ## Callings with exclamation point
 ![history_ID]: executes the command with that ID (get the ID running history on CLI)

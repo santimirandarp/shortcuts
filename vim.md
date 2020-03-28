@@ -2,6 +2,15 @@
 * Vim is a terminal text editor
 * This are only the basics of vim, but not the very basics.
 * **VA** is viewable area.
+
+## Syntaxis   
+Modifiers are special keys that we list below.
+After a modifier a dash (-) is added.    
+
+C = Ctrl
+A = Alt
+S = shift
+
 ## Motions
 M, L, H: cursor on middle, low or high area of VA.
 \>\> , << : controls indention of lines.
@@ -13,10 +22,10 @@ zt, zb, zz: shifts current line to top, bottom or middle of VA.
 ), ( -> for sentences
 }, { -> for paragraphs (paragraphs in vim are denoted by a blank line!)
 fchar, tchar =  forwart, till char.
-CTRL+u != CTRL+d: move 1/2 screen + cursor (up or down).
-ctrl+F (forward), ctrl+B (backward) : 1 full screen.
-ctrl+E moves screen up keeping cursor on line
-ctrl+y moves screen down keeping cursor on line.
+C-u != C-d: move 1/2 screen + cursor (up or down).
+C-f (forward), C-b (backward) : 1 full screen.
+C-e moves screen up keeping cursor on line
+C-y moves screen down keeping cursor on line.
 d$=D != d^ 
 *,# next/prev ocurrence of the current word.
 % matching ({[

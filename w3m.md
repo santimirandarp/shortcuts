@@ -6,6 +6,15 @@ It ignores stylesheets and javascript.
 * Many keybindings are vim-like.      
 ___
 
+
+## Syntaxis   
+Modifiers are special keys that we list below.
+After a modifier a dash (-) is added.    
+
+C = Ctrl
+A = Alt
+S = shift
+
 ## Atomic motions    
 h, j, k, l: left, down, up, right   
 ^, C-a: beginning of the line      
@@ -17,7 +26,7 @@ K, J: scrolls up and down
 (tip: j looks like a down arrow)    
 +, - : page down, page up      
 \>, < :shift screen horizontally      
-B : previous page    
+B: previous page    
 ## Hyperlinks   
 TAB: next hyperlink   
 C-u: previous hyperlink   
