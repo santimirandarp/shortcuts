@@ -3,8 +3,7 @@
 * w3m is a text-based browser for terminal emulators (xterm, alacritty, etc).    
 It ignores stylesheets and javascript.
 * For command-line launch-arguments see w3m manual (`$: man w3m`).
-* Many keybindings are vim-like.   
-   
+* Many keybindings are vim-like.      
 ___
 
 ## Atomic motions    
@@ -13,6 +12,7 @@ h, j, k, l: left, down, up, right
 $, C-e: end of line      
 w, W: next word, previous word   
 ## Cosmic motions   
+gg, G: document's top, bottom   
 K, J: scrolls up and down      
 (tip: j looks like a down arrow)    
 +, - : page down, page up      

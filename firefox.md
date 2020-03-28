@@ -18,14 +18,14 @@ C-W, C-q = closes window
 C-T = brings back closed tab   
 C-Tab = Right Navigate Tabs   
 C-Shift-Tab = Left Navigate Tabs   
-   
+  
 ## Select Text   
 C-a, Alt-a = selects all (a) text   
    
-## ZOOM   
+## View   
 C-+, C-= : zoom in   
 C--, C-_ : zoom out   
-   
+C-Alt r: **reader view**   
 ## Utilities   
 C-h = shows history   
 C-l = recent pages dropdown on the Address (URL) bar   
@@ -44,7 +44,7 @@ On the Address Bar
    
 (This doesn't works straightaway for youtube.)   
    
-## ???   
+## Developer Tools   
 C-M = switch to responsive mode   
 C-I = Inspector   
 C-K = console   
@@ -52,4 +52,4 @@ C-J = browser console.
 C-u = html source   
    
 # Command Line (Personal Shortcut)   
-C-ALT + b = Launch Browser   
+C-Alt + b = Launch Browser   
