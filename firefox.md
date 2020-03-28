@@ -1,13 +1,13 @@
 # Some shortcuts for Firefox Browser.   
    
 ## Syntaxis   
-Modifiers are special keys that we list below.
+Modifiers are special keys that we list below.   
 After a modifier a dash (-) is added.    
 
-C = Ctrl
-A = Alt
-S = shift
-  
+C = Ctrl   
+A = Alt   
+S = shift   
+     
 ## Navigation   
 A-Left = Previous Page   
 Alt-Right = Next Page   

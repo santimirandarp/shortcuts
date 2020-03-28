@@ -11,9 +11,9 @@ ___
 Modifiers are special keys that we list below.
 After a modifier a dash (-) is added.    
 
-C = Ctrl
-A = Alt
-S = shift
+C = Ctrl   
+A = Alt   
+S = shift   
 
 ## Atomic motions    
 h, j, k, l: left, down, up, right   
