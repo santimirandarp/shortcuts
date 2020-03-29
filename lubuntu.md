@@ -19,13 +19,16 @@ S-A-[arrows]: send to desktop
    
 ## Applications Launcher   
 W-d: show desktop   
-W-r: toggle runner   
+W-r: runner   
 W-e: launch explorer   
 W-t: launch default Qterminal (personal keybinding)   
 W-a: launch alacritty (personal keybinding)   
 W-b: launch browser (personal keybinding)   
 C-A-t: launch terminal   
-   
+ESC: closes pop up windows and similar stuff.
+C-q: quit many applications.   
+
 ## Windows   
 A-space: show window menu (super useful)   
+A-f: opens current window menu (super useful too).
 A-Tab: next window.   

@@ -18,7 +18,7 @@ zt, zb, zz: shifts current line to top, bottom or middle of VA.
 ^, $: first or last non-blank character of the line.   
 0, g_ : first or last character of the line.   
 [number]$: moves [number] lines down, then to the last character. Ex: 20$.   
-:n == nG --> moves cursor to line n (relative if using relnumber)   
+:n == nG --> moves cursor to line n (absolute units)
 ), ( -> for sentences   
 }, { -> for paragraphs (paragraphs in vim are denoted by a blank line!)   
 fchar, tchar =  forwart, till char.   
@@ -28,11 +28,10 @@ C-e moves screen up keeping cursor on line
 C-y moves screen down keeping cursor on line.   
 d$=D != d^    
 *,# next/prev ocurrence of the current word.   
-% matching ({[   
+% matches surroundings ({[   
+
 Playing with some macros   
 qq g_ d$ : deletes trailing white space on a line.   
    
 ## Marks   
-   
-## Superb characters for search a/o replace   
-*,^ line starts with, $ ends w    
+## Search and Replace
