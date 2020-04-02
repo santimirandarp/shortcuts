@@ -12,10 +12,11 @@ S = shift
 A-Left = Previous Page   
 Alt-Right = Next Page   
    
-## Tabs   
+## Tabs and Windows  
 C-t = new tab.   
 C-w = close tab (focused tab)   
 C-n = new window   
+C-P = new private window
 C-W, C-q = closes window    
 C-T = brings back closed tab   
 C-Tab = Right Navigate Tabs   
