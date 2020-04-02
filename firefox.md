@@ -16,7 +16,7 @@ Alt-Right = Next Page
 C-t = new tab.   
 C-w = close tab (focused tab)   
 C-n = new window   
-C-P = new private window
+C-P = new private window   
 C-W, C-q = closes window    
 C-T = brings back closed tab   
 C-Tab = Right Navigate Tabs   
@@ -29,9 +29,10 @@ C-a, A-a = selects all (a) text
 C-+, C-= : zoom in   
 C--, C-_ : zoom out   
 C-A-r: **reader view**   
+
 ## Utilities   
 C-h = shows history   
-C-l = recent pages dropdown on the Address (URL) bar   
+C-l = recent pages dropdown on the Address (URL) bar(useful!)   
 C-j = focus Address bar    
 C-s = save current page   
 C-p = print current page   
