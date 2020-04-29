@@ -38,6 +38,9 @@ C-s = save current page
 C-p = print current page   
 C-f = find on page   
 C-m = mute tab   
+C-b = opens bookmarks menu
+C-r, F5 = refresh page
+C-o = for open a file in the browser
 C-Tab, C-S-Tab = move through tabs   
    
 ## Also on Address Bar   
