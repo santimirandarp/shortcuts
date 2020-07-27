@@ -7,11 +7,11 @@ After a modifier a dash (-) is added.
 C =  Ctrl   
 A = Alt   
 S = shift   
-   
+
+C-l: clear terminal. Typing clear works the same.   
 ## motions   
 C-a: beginning of line   
 C-e: EoL   
-   
 ## deletions   
 C-k: all after cursor.   
 C-u: all before cursor (C-e C-u removes all the line). 
