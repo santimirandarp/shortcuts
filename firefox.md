@@ -7,11 +7,9 @@ After a modifier a dash (-) is added.
 C = Ctrl   
 A = Alt   
 S = shift   
-     
 ## Navigation   
 A-Left = Previous Page   
 Alt-Right = Next Page   
-   
 ## Tabs and Windows  
 C-t = new tab.   
 C-w = close tab (focused tab)   
@@ -21,19 +19,17 @@ C-W, C-q = closes window
 C-T = brings back closed tab   
 C-Tab = Right Navigate Tabs   
 C-S-Tab = Left Navigate Tabs   
-  
+A-number = goes to 'number' tab (very useful).
 ## Select Text   
 C-a, A-a = selects all (a) text   
-   
 ## View   
 C-+, C-= : zoom in   
 C--, C-_ : zoom out   
 C-A-r: **reader view**   
-
 ## Utilities   
 C-h = shows history   
-C-l = recent pages dropdown on the Address (URL) bar(useful!)   
-C-j = focus Address bar    
+C-l = focus address bar
+C-j = focus cleared address bar   
 C-s = save current page   
 C-p = print current page   
 C-f = find on page   
@@ -42,21 +38,15 @@ C-b = opens bookmarks menu
 C-r, F5 = refresh page
 C-o = for open a file in the browser
 C-Tab, C-S-Tab = move through tabs   
-   
 ## Also on Address Bar   
 On the Address Bar   
 @something to search on something. Examples:   
 @twitter to search on twitter   
 @wikipedia to search on wikipedia   
-   
-(This doesn't works straightaway for youtube.)   
-   
+(doesn't for youtube out of the box.)   
 ## Developer Tools   
 C-M = switch to responsive mode   
-C-I = Inspector   
+C-I = inspector   
 C-K = console   
 C-J = browser console.   
 C-u = html source   
-   
-# Command Line (Personal Shortcut)   
-C-A-b = Launch Browser   

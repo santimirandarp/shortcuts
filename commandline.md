@@ -1,5 +1,5 @@
 # COMMAND LINE   
-   
+I'm listing here not only shortcurs but also some neat tools to release the tension in your neck.
 ## Syntaxis      
 Modifiers are special keys that we list below.   
 After a modifier a dash (-) is added.       
@@ -14,7 +14,7 @@ C-e: EoL
    
 ## deletions   
 C-k: all after cursor.   
-C-u: all before cursor   
+C-u: all before cursor (C-e C-u removes all the line). 
    
 ## Callings with exclamation point   
 ![history_ID]: executes the command with that ID (get the ID running history on CLI)   
