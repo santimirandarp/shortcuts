@@ -1,12 +1,10 @@
 # Some shortcuts for Firefox Browser.   
-   
+This is just a selection of commands I find useful. Find all [firefox keyboard shortcuts here](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?as=u&utm_source=inproduct&redirectslug=Keyboard+shortcuts&redirectlocale=en-US)   
 ## Syntaxis   
 Modifiers are special keys that we list below.   
 After a modifier a dash (-) is added.    
 
-C = Ctrl   
-A = Alt   
-S = shift   
+C = Ctrl   A = Alt   S = shift   
 ## Navigation   
 A-Left = Previous Page   
 Alt-Right = Next Page   
@@ -38,6 +36,8 @@ C-b = opens bookmarks menu
 C-r, F5 = refresh page
 C-o = for open a file in the browser
 C-Tab, C-S-Tab = move through tabs   
+C-A-r = reader mode
+F7 = enables caret browsing (keyboard feature)
 ## Also on Address Bar   
 On the Address Bar   
 @something to search on something. Examples:   
@@ -50,3 +50,6 @@ C-I = inspector
 C-K = console   
 C-J = browser console.   
 C-u = html source   
+
+
+
